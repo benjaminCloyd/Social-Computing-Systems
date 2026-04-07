@@ -58,6 +58,7 @@ def run(shorts):
 
     # Point to your Firefox profile so you stay signed in
     options.add_argument("-profile")
+    # You will have to customize this to be the path on your machine, can be found by opening firefox and typing in about:profiles
     options.add_argument(
         "/Users/bencloyd/Library/Application Support/Firefox/Profiles/o1n4dthj.default-release"
     )
