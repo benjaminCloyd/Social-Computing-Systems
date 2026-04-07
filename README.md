@@ -1,2 +1,4 @@
 # Social-Computing-Systems
-Social Computing Systems FInal Project
+Social Computing Systems Final Project
+
+## This is designed for the Firefox browser
