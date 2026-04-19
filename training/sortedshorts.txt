@@ -1,8 +1,4 @@
-https://www.youtube.com/shorts/PEXyFeBHC0o,50
-https://www.youtube.com/shorts/Tfbi1rBKfec,42
-https://www.youtube.com/shorts/0L-28GnUC7U,50
-https://www.youtube.com/shorts/1NKuSBfVFZY,46
-
+nonpolitical:
 https://m.youtube.com/shorts/ZvptCPrknP8
 https://m.youtube.com/shorts/J0iIQ629N2c
 https://m.youtube.com/shorts/ncFc9D7g124
@@ -10,17 +6,20 @@ https://m.youtube.com/shorts/WphOWBglJqo
 https://m.youtube.com/shorts/BDEaILJuuJE
 https://m.youtube.com/shorts/W_3fxwrObxY
 
+political (neutral):
 https://m.youtube.com/shorts/RQk3MSATgMI
 https://m.youtube.com/shorts/VQpt6Y-IIJU
 https://m.youtube.com/shorts/eQxkKQJuR8c
 https://m.youtube.com/shorts/o1TKkSvE_kQ
 https://m.youtube.com/shorts/-mNJT0JWv9Y
 
+political (left leaning):
 https://m.youtube.com/shorts/EgbRE48j21E
 https://m.youtube.com/shorts/9M0LWcsbaSo
 https://m.youtube.com/shorts/JGoymv33ZWc
 https://m.youtube.com/shorts/uj2UJ6hWSDo
 
+political (right leaning):
 https://m.youtube.com/shorts/MyTNdXTMeHI
 https://m.youtube.com/shorts/p9oJ55EKJDk
 https://m.youtube.com/shorts/AGvyr-_rknU
