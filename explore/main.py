@@ -76,23 +76,46 @@ def get_channel_name(driver):
 
 def is_ad_playing(driver):
     """Return True if an ad is currently showing."""
+    # 1. Check for standard player ad class
     ad_class = driver.execute_script(
         "return document.querySelector('.ad-showing') !== null;"
     )
     if ad_class:
         return True
 
+    # 2. Advanced check specifically for active Shorts ads using JS (Much faster)
+    is_shorts_ad = driver.execute_script(
+        """
+        const activeShort = document.querySelector('ytd-reel-video-renderer[is-active]');
+        if (activeShort) {
+            // Check for the 'is-ad' attribute or ad-specific tags inside the active short
+            return activeShort.hasAttribute('is-ad') || 
+                   activeShort.querySelector('ytd-ad-slot-renderer') !== null ||
+                   activeShort.querySelector('#ad-info-container') !== null;
+        }
+        return false;
+    """
+    )
+
+    if is_shorts_ad:
+        return True
+
+    # 3. Fallback to standard indicators (Fixed the typo by removing the '.' before ytd-ad-slot-renderer)
     ad_indicators = [
         ".ytp-ad-player-overlay",
         ".ytp-ad-simple-ad-badge",
         ".ytp-ad-preview-container",
-        "ytd-reel-player-overlay-renderer .ytd-ad-slot-renderer",
+        "ytd-ad-slot-renderer",  # Targets the tag itself, not a class
     ]
+
     for selector in ad_indicators:
         try:
-            el = driver.find_element(By.CSS_SELECTOR, selector)
-            if el.is_displayed():
-                return True
+            # Note: find_elements (plural) is faster here because it returns an empty list
+            # if not found, rather than blocking the thread with an Implicit Wait timeout.
+            elements = driver.find_elements(By.CSS_SELECTOR, selector)
+            for el in elements:
+                if el.is_displayed():
+                    return True
         except Exception:
             continue
 
