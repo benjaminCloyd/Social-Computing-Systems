@@ -9,7 +9,7 @@ import os
 
 POLL_INTERVAL = 0.5
 LOAD_TIMEOUT = 15
-SHORT_COUNT = 20  # How many shorts to watch
+SHORT_COUNT = 21  # How many shorts to watch (first videos url cant be saved)
 SHORTS_START_URL = "https://www.youtube.com/shorts"
 FIREFOX_PROFILE_PATH = "/Users/bencloyd/Library/Application Support/Firefox/Profiles/o1n4dthj.default-release"
 
@@ -20,11 +20,71 @@ def get_log_filename(profile_path):
     return f"exploreshorts({profile_name}).txt"
 
 
-def log_url(log_file, url, index, total, duration):
+def get_channel_name(driver):
+    """
+    Wait for the Shorts overlay to settle, then try multiple strategies
+    to pull the channel name out of the DOM.
+    """
+    # Give the overlay a moment to finish rendering
+    time.sleep(1.0)
+
+    # Strategy 1: explicit CSS selectors, most-specific first
+    selectors = [
+        "ytd-reel-player-overlay-renderer ytd-channel-name yt-formatted-string#text a",
+        "ytd-reel-player-overlay-renderer ytd-channel-name yt-formatted-string#text",
+        "ytd-reel-player-overlay-renderer #channel-name yt-formatted-string",
+        "ytd-reel-player-header-renderer #channel-name yt-formatted-string",
+        "#channel-name yt-formatted-string",
+        "ytd-channel-name yt-formatted-string",
+    ]
+    for selector in selectors:
+        try:
+            el = driver.find_element(By.CSS_SELECTOR, selector)
+            name = el.text.strip()
+            if name:
+                return name
+        except Exception:
+            continue
+
+    # Strategy 2: JavaScript — walk every ytd-channel-name in the page
+    # and return the first non-empty text we find
+    name = driver.execute_script(
+        """
+        const nodes = document.querySelectorAll('ytd-channel-name');
+        for (const node of nodes) {
+            const text = node.innerText.trim();
+            if (text) return text;
+        }
+        return null;
+    """
+    )
+    if name:
+        return name.strip()
+
+    # Strategy 3: look for any anchor inside the overlay that points to a /@ channel URL
+    name = driver.execute_script(
+        """
+        const links = document.querySelectorAll('a[href^="/@"]');
+        for (const a of links) {
+            const text = a.innerText.trim();
+            if (text) return text;
+        }
+        return null;
+    """
+    )
+    if name:
+        return name.strip()
+
+    return "unknown channel"
+
+
+def log_entry(log_file, url, channel, index, total, duration):
     """Append a watched short's details to the log file."""
     timestamp = time.strftime("%Y-%m-%d %H:%M:%S")
     with open(log_file, "a") as f:
-        f.write(f"[{timestamp}] [{index}/{total}] {url} ({duration:.1f}s)\n")
+        f.write(
+            f"[{timestamp}] [{index}/{total}] {channel} | {url} ({duration:.1f}s)\n"
+        )
 
 
 def wait_for_video_to_finish(driver):
@@ -96,9 +156,10 @@ def run(short_count):
 
     for i in range(short_count):
         current_url = driver.current_url
-        print(f"[{i+1}/{short_count}] Watching: {current_url}")
+        channel = get_channel_name(driver)
+        print(f"[{i+1}/{short_count}] {channel} | {current_url}")
         duration = wait_for_video_to_finish(driver)
-        log_url(log_file, current_url, i + 1, short_count, duration)
+        log_entry(log_file, current_url, channel, i + 1, short_count, duration)
         print("  Done.")
 
         if i < short_count - 1:
