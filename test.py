@@ -1,8 +1,6 @@
-import subprocess
-import sys
 import time
 import os
-
+import sys
 from selenium import webdriver
 from selenium.webdriver.firefox.options import Options
 from selenium.webdriver.common.by import By
@@ -10,16 +8,10 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 
 # ── Config ────────────────────────────────────────────────────────────────────
-FIREFOX_PROFILE_PATH = (
-    "/Users/bencloyd/Library/Application Support/Firefox/Profiles/"
-    "o1n4dthj.default-release"
-)
-# Changed to the main My Activity URL to match your 3-step click flow
+FIREFOX_PROFILE_PATH = "/Users/bencloyd/Library/Application Support/Firefox/Profiles/o1n4dthj.default-release"
 DELETE_URL = "https://myactivity.google.com/myactivity"
-LOAD_TIMEOUT = 20  # seconds to wait for page elements
 
 
-# ── Google Activity Deletion ──────────────────────────────────────────────────
 def delete_google_activity():
     print("  [delete] Launching Firefox...")
     options = Options()
@@ -113,54 +105,5 @@ def delete_google_activity():
         driver.quit()
 
 
-# ── Helpers ───────────────────────────────────────────────────────────────────
-def run_script(label, script_path):
-    """Run a Python script as a subprocess and wait for it to finish."""
-    print(f"\n  [{label}] Starting: {script_path}")
-    result = subprocess.run(
-        [sys.executable, script_path],
-        cwd=os.path.dirname(os.path.abspath(script_path)),
-    )
-    if result.returncode != 0:
-        print(f"  [{label}] WARNING: script exited with code {result.returncode}")
-    else:
-        print(f"  [{label}] Finished successfully.")
-
-
-# ── Main Loop ─────────────────────────────────────────────────────────────────
-def main():
-    # Resolve script paths relative to this file's location
-    base = os.path.dirname(os.path.abspath(__file__))
-    training_script = os.path.join(base, "training", "main.py")
-    explore_script = os.path.join(base, "explore", "main.py")
-
-    iteration = 1
-    print("Starting loop — press Ctrl+C to stop.\n")
-
-    try:
-        while True:
-            print(f"{'='*60}")
-            print(f"  LOOP ITERATION {iteration}")
-            print(f"{'='*60}")
-
-            # 1. Training
-            run_script("training", training_script)
-
-            # 2. Explore
-            run_script("explore", explore_script)
-
-            # 3. Delete Google activity
-            print("\n  [delete] Deleting Google activity for all time...")
-            delete_google_activity()
-
-            print(f"\n  Iteration {iteration} complete. Starting next...\n")
-            iteration += 1
-
-    except KeyboardInterrupt:
-        print(
-            f"\n\nLoop cancelled by user after {iteration - 1} completed iteration(s)."
-        )
-
-
 if __name__ == "__main__":
-    main()
+    delete_google_activity()
