@@ -611,7 +611,7 @@
     "index": 14,
     "filename": "0014_blackconservative2429_g3-sNqEARpY.mp3",
     "transcript": "Yeah, they're not going to show you this side of Donald Trump. How did you feel about winning? How did you feel? I did good. I did bad over. Bad time. What? Bad time over? Whoa. That's not bad. That's good. Thank you. But Mr. President, Jane was telling us, beforehand, we were waiting in the Roosevelt room. She was sharing that she was so excited that her dad and she both had the same color hair as you. I'm really proud of that. I hope he has a beautiful head hair. I hope he has better. That my dad won't do a hair. He likes the hair. That's great. I'm going to have to think about that. Thank you. Say hello to your dad, right? No, until you won. My dad died. And my mom too. You're in the Oval Office and they're looking down on you and they see gold, right? That's gold. That's really something and they're very proud of you, right? So congratulations, Tom.",
-    "is_political": false,
+    "is_political": true,
     "confidence": "low",
     "reason": "The transcript does not contain any discussion about election/voting, political parties or candidates, government policy, political ideology, social justice activism, protests, legislation, or political news commentary."
   },
@@ -2558,7 +2558,7 @@
     "index": 55,
     "filename": "0055_Emanuela-d2g_M6lfSfwxDVQ.mp3",
     "transcript": "I mean, imagine what what Trump would say if he actually had a record like this Instead us instead us selling steaks Obamacare is great and it's really working sign up now No No, do you get a lot of music money enough enough and I don't look so good at what you don't you look sharp Yeah, I'm seeing me naked Yeah, you know me. I am thrilled to be here today alongside the vice president and my favorite person here Jill Biden Along oh, yeah Man who has been leading the way is standing right next to me",
-    "is_political": false,
+    "is_political": true,
     "confidence": "low",
     "reason": "The transcript does not mention any political topics such as election/voting discussion, political parties or candidates, government policy, etc."
   },
