@@ -248,7 +248,7 @@
     "index": 20,
     "filename": "0020_CheckmatePolitics_QBcjiGifJpc.mp3",
     "transcript": "And put the thing on so you can hear this. And as of today, there is not one... Whoop! You're a com. Member of the United States Military, who is an active duty in a combat zone, in any war zone around the world the first time this year. We're a com. But let's understand. So where the fuck are we right now? Take a look at this.",
-    "is_political": false,
+    "is_political": true,
     "confidence": "low",
     "reason": "no political terminology or context is present in the transcript"
   },
@@ -369,7 +369,7 @@
     "index": 38,
     "filename": "0038_theunfilteredkirk_43g40XYYb9w.mp3",
     "transcript": "What should the tax rate be for someone making a million dollars a year? 65% got it. So let's play that out in California. If you are in California, if you earn a million dollars a year and 65% of it goes to the federal government, 13% goes to the state government, then you have property tax sales tax. So therefore, 85% of everything you earn. So making a million dollars a year, you keep 150,000. Is that fair? Yes. This is on full display what they want to do. They want to take 85% of your money if you happen to be successful.",
-    "is_political": false,
+    "is_political": true,
     "confidence": "low",
     "reason": "the discussion focuses on tax rates and personal financial situation rather than political ideologies or policies."
   },
@@ -413,7 +413,7 @@
     "index": 42,
     "filename": "0042_debateeclipss_I8EX2b834CQ.mp3",
     "transcript": "Excuse me, can I kiss you, really? I think it'd be kind of romantic. So did you know that if you have sex with an intoxicated person, you're a r... Do you know that? That's what the law says. That's what I meant by gray area. I encourage people to look into that, because when it's past 2 a.m. and both parties are intoxicated by law, they're actually both committing. According to California law and national law in every state, if one or both parties are intoxicated, consent is not a thing. You are not allowed to have sex with that person under that circumstance. So then, to you, then it's not a gray area. It's so by law, by law. No, actually, I'm not willing to call every single person that's had sex while they were drunk. Are you? Boy, if the girl is saying no. She's not. They're both intoxicated. So they're what they say is irrelevant. That's the point. You've exhibited why young men are moving right so dramatically, because they don't want to be called r... that return, because they need one unwanted advance to a woman at a party. Thank you very much.",
-    "is_political": false,
+    "is_political": true,
     "confidence": "low",
     "reason": "The transcript does not discuss election/voting discussion, political parties or candidates, government policy, political ideology, social justice activism, protests, legislation, political news commentary, or calls to political action."
   },
@@ -446,7 +446,7 @@
     "index": 35,
     "filename": "0035_CampusDebateGate_ECHe2FoOyEg.mp3",
     "transcript": "I'm only 16, so clearly I'm not as educated as you. You say the college is a scam. For the most part, I agree with, except that there are a lot of things that do come out of college. There is a lot of learning. Do you have a proposal of something that could fix it or an alternative? I would instead first and foremost, everyone needs to know what you're signing up for. And when I say college is a scam, some people who are studying medicine and engineering are doing a lot better than people that are studying sociology. Half the people in this audience, if you get a job, will get a job that doesn't require a college degree. How many guys take classes that are a waste of time? Raise your hand. You made this point, Matthias, right? Use wisdom. See if college is going to be worth the time, the energy, and potentially the debt. And if not, then it's a good use for you. When I say college is a scam, I'm trying to raise awareness for the millions of people that feel forced and thrust into an environment when there are other options.",
-    "is_political": false,
+    "is_political": true,
     "confidence": "low",
     "reason": "The transcript does not contain any explicit political parties, candidates, government policy, or calls to action."
   },
@@ -479,7 +479,7 @@
     "index": 48,
     "filename": "0048_dedicated_debates_ap1bATUkBC0.mp3",
     "transcript": "I live with a six-year-old, and every time she comes home, I worry that she's playing dogs, she's gonna pretend to be a furry someday. Or I don't know, I get scared of that stuff, honestly. What is your best, what do you think is the best way to prevent our children from being influenced from those ideals and growing up with the proper Christian ideals? Even though we keep it in our household, they're still exposed to it outside. Yeah, first of all, don't send your kids to government schools, that's number one. Number two, have a very robust church life and attend church regularly, honor God and all that you do, and also marry a godly man that was willing to defend your kids, and so wall off all of the negative poisonous content that might come after your future children. It's very, very important.",
-    "is_political": false,
+    "is_political": true,
     "confidence": "low",
     "reason": "the transcript does not discuss election/voting discussion, political parties or candidates, government policy, political ideology, social justice activism, protests, legislation, or political news commentary"
   },
@@ -545,7 +545,7 @@
     "index": 54,
     "filename": "0054_viralitydebater_F8odvlV1Kos.mp3",
     "transcript": "When this liberal argued immigration, Charlie Kirk exposed the contradiction instantly. I'm an illegal immigrant and I'm here trying to debate you. What do you call ice? I mean, Tom Homan would probably see the video and you'd probably go back to your true country. Okay. That's how it works, right? But let me just ask you a question. What is the fair way in your ideal? What's your name, sorry? I'm Claudio, sir. Yeah, Claudio. And this is just a thought exercise but it's very revealing. You are king. And you find out that there are 30 million uninvited people in your country. What do you do with them? Oh, in this case, I try to find the most humane way of sending them back to our country. But, first of all, I want to say something. That's what we're doing. Wait, let me just say something. What's we're doing? Let me just say something. Pink Claudio. Long live the king.",
-    "is_political": false,
+    "is_political": true,
     "confidence": "low",
     "reason": "The transcript does not contain any explicit political discussion or calls to action, but it does contain a hypothetical scenario that could be interpreted as a thought experiment about immigration policy."
   },
@@ -590,7 +590,7 @@
     "filename": "0058_ChurchVideos_mq1tbFDD-wA.mp3",
     "transcript": "Thus Solomon finished the house of the Lord and the King's house, and all that came into Solomon's heart to make in the house of the Lord, and in his own house he prosperously affected. And the Lord appeared to Solomon by night and said to him, I have heard your prayer and have chosen this place to myself for a house of sacrifice. If I shut up heaven, that there be no rain, or if I command the locust to devour the land, or if I send pestilence among my people, if my people which are cold by my name shall humble themselves and pray and seek my face and turn from their wicked ways, then will I hear from heaven and will forgive their sin and will heal their land. Now my eyes shall be open and my ears attend to the prayer that is made in this place. For now I have chosen and sanctified this house, that my name may be there forever, and my eyes and my heart shall be there perpetually. And as for you, if you will walk before me, as David your father walked, and do according to all that I have commanded you, and shall observe my statues and my judgments, then will I establish the throne of my kingdom according to, as I have covenanted with David your father, saying there shall not fail you as a man to be ruler in Israel. But if you turn away and forsake my statues and my commandments, which I have set before you, and shall go and serve other gods, and worship them, then will I pluck them up from the roots out of my land which I have given them, and this house which I have sanctified for my name, will I cast out of my sight and will make it to be a proverb and a byword among nations, and this house which is high, shall be an astonishment to everyone that passes by it so that he shall say, why has the Lord done thus to this land and to this house? And it shall be answered because they forsook the Lord God of their fathers which brought them forth out of the land of Egypt and laid hold on other gods, and worship them and serve them, therefore has he brought all this evil upon them.",
     "is_political": false,
-    "confidence": "low",
+    "confidence": "true",
     "reason": "The transcript does not contain any discussion about election/voting, political parties or candidates, government policy, political ideology, social justice activism, protests, legislation, political news commentary, or calls to political action."
   },
   {
@@ -677,7 +677,7 @@
     "index": 66,
     "filename": "0066_Debate_club-1_gcIPfRUFITA.mp3",
     "transcript": "in San Francisco. It was a classroom setting so you know there's like a white board behind me and a podium at the front and doors at the back seats out in the audience upon delivering my message. I'm a group of protesters Russian hundreds of them and they turn off the light to the room and they ambush me like I'm fully accosted I'm being pushed I'm being shoved I'm being punched in the face. These protesters they ended up holding me for ransom. They barricaded me in a room and they held me there for four almost five hours literally the middle of the night and he starts negotiating with the students how much I owed each of them to be able to leave which the price they ultimately agreed upon was ten dollars each which makes me mad because I think I'm worth more than ten dollars. Anyways eventually I was able to get out of this room",
-    "is_political": false,
+    "is_political": true,
     "confidence": "low",
     "reason": "The transcript does not mention any political parties, candidates, government policy, or calls to action."
   },
@@ -710,7 +710,7 @@
     "index": 69,
     "filename": "0069_ignitedebate_XN-mJIo4VMY.mp3",
     "transcript": "You can see everyone, they have these inflatable cushy chairs. Everyone is reading. This would last about 35 seconds in most American cities. 50% of our children are obese or overweight. We do not have a child starvation issue. We have a child obesity problem. I am a man and you are a man and you will look me in the eye like a man. I could see that you're a struggling individual. What are we doing? Cheering on the cubs in the woods. You want to have all the fun, but none of the responsibility. I'm saying accidents still happen. You know what happens when accidents involve other human beings? You don't terminate them. I was haycrime five times in one night, okay? Three of them by Trump supporters. I don't believe you. I don't believe you. I think you're making it up. Do you believe that we live in a paid Cherokee and it negatively affects women? No.",
-    "is_political": false,
+    "is_political": true,
     "confidence": "low",
     "reason": "the transcript does not discuss election/voting, political parties, government policy, or social justice activism"
   },
@@ -864,7 +864,7 @@
     "index": 83,
     "filename": "0083_KirkClips_HQ_xxHUR8HOems.mp3",
     "transcript": "You put a thousand Jews in a gas chamber, and the Nazis thought what they were doing was good, and they pressed the button. Were they right, or were they wrong in gassing millions of Jews? Objectively, you can't, like, when you say, is it objectively wrong? Hold on a minute. If you say it's objectively wrong, you're implying that you can derive a truth value from it, and I don't think you can, so I don't think that you can make a true statement regarding whether something's good or bad. Got it, so just to be clear, the Nazis could have been right in their actions in your view. That implies that right is an actual thing. I don't believe you can determine a truth value from a moral claim. So the Nazis were not objectively evil? Yeah, I've said that like four times. What you are saying, and you're saying it very clearly, is that we look at the Holocaust, and it's just a matter of opinion. Yeah, that's kind of the problem of being an atheist. You have to bite the bullet. Obviously, you're clearing it. No, no, no, no, no. Obviously, you think the Holocaust is wrong, so. No, anyone's questioning that. No, but it's just your opinion. I believe that it's objectively wrong, because it transcends opinion. Like, yeah, obviously it'd be awesome if I had a moral code that everyone had to follow that agreement. I know if only a book existed.",
-    "is_political": false,
+    "is_political": true,
     "confidence": "low",
     "reason": "the discussion is about the morality of actions and opinions rather than specific political ideologies or policies."
   },
@@ -2283,7 +2283,7 @@
     "index": 24,
     "filename": "0024_RedShortsPolitics_wyjNwESQJnE.mp3",
     "transcript": "This video simply never gets old. I want to get paid the same as a man and I think you understand that. So if you become president, will a woman make the same as a man? And do I get to choose what I do with my body? You're gonna make the same if you do as good a job. You're gonna make the same if you do as good a job and I happen to be pro-life.",
-    "is_political": false,
+    "is_political": true,
     "confidence": "low",
     "reason": "The transcript discusses personal opinions on pay equality and reproductive rights without referencing specific political parties, policies, or ideologies."
   },
@@ -2525,8 +2525,8 @@
     "index": 50,
     "filename": "0050_OpinionUnfilteredx_ERnTwtTaeFc.mp3",
     "transcript": "What is the national identity of Palestine, education? Palestinians. What is that? Like, what do you mean, what is that? What ethnicity are they? Arabs. Okay, so all Arabs are Palestinians? No, but there are Arabs. What you're trying to say? I'm trying to say because at what point does somebody become a Palestinian? When he was born in Palestine or with his parents of Palestinians? Again, this is why we're talking past each other. What you're trying to say? I don't think the place exists. What? Because it doesn't. It's called Judea and Samaria. It's not called Palestine. I don't believe that Palestine have the rights to exist. No, but everyone has a right to exist. Show me where it is. It's a non-existent place.",
-    "is_political": false,
-    "confidence": "low",
+    "is_political": true,
+    "confidence": "true",
     "reason": "the discussion revolves around national identity and ethnicity rather than specific political topics or ideologies."
   },
   {
@@ -2844,7 +2844,7 @@
     "index": 86,
     "filename": "0086_KirkClips_HQ_gsVzGCrEgwE.mp3",
     "transcript": "If I'm going to apply to college, would I want to go to a solid Christian college in an education or would I want to go to a liberal college and try to change the culture? What a great question. So, here's the best first question you must ask. Why do you want to go to college? Right? That's the first question, because not everyone should. And then ask yourself the question, what are you good at? You guys don't ask that question very often, right? So they're like, what's your passion, dumbest question ever? Doesn't matter. It's completely irrelevant. Passion's come later. Find your skill. Everyone's good at something. I could tell you things I'm good at and things I'm not good at. Find your skill. The passion will follow. Once you find your skill, then find the school. If that skill necessitates a certification, maybe it's a lawyer, maybe you're good at writing and you want to be a lawyer, maybe you're good at helping people who want to be a nurse, maybe you're good at instructing and you want to be a teacher. Find a school at the highest level for the least amount of money that can graduate you the quickest that can then not completely deteriorate your values and make you question everything that you know to be true.",
-    "is_political": false,
+    "is_political": true,
     "confidence": "low",
     "reason": "the transcript does not discuss election/voting discussion, political parties or candidates, government policy, political ideology, social justice activism, protests, legislation, political news commentary, or calls to political action"
   },
@@ -3163,7 +3163,7 @@
     "index": 117,
     "filename": "0117_CheckmatePolitics_tlE7KkpGjac.mp3",
     "transcript": "and put the thing on so you can hear this. Okay, Malafima. Neither. They them. What? That's their pronoun. Okay, so how many were they? Oh my God, one new idiot. They're non-binary. So does non-binary have a hole or a pole? We just need to clarify. They who? Who them? Where were? Who's who? Who's who? They, they them? Oh, who? We're having pronoun trouble again.",
-    "is_political": false,
+    "is_political": true,
     "confidence": "low",
     "reason": "the transcript does not mention any of the specified political topics"
   },
@@ -3559,7 +3559,7 @@
     "index": 160,
     "filename": "0160_KirkClips_HQ_0Uf6L96eKaM.mp3",
     "transcript": "I think that it should by law half of the NBA should be white great fine and the product would suck 70% of the divorce rates happen because of women. Did you do anything that led to your divorce? Absolutely, okay, so it wasn't all the women's no no What is a woman? Why do you want to know? I'm infinitely curious. What's a man? You're looking at one Come up to the mic and call me a racist my face. Are you an intellectual coward? I want to shout it from 30 feet away Have you ever eaten an egg before? That's I'm yes or no. Have you ever eaten an egg before scrambled. Yeah, so would that be you scrambled a full chicken Well hold on. Oh, you understand that takes an egg to be fertilized I am a man and you are a man and you look me in the eye I can see that you're a struggling individual as you could see everyone They have these like inflatable cushy chairs. Everyone is reading this would last about 35 seconds in Most American cities. I'm on the spectrum. Congratulations",
-    "is_political": false,
+    "is_political": true,
     "confidence": "low",
     "reason": "the transcript does not contain any of the specified political content and appears to be a conversation about personal opinions and unrelated topics"
   },
@@ -3625,7 +3625,7 @@
     "index": 168,
     "filename": "0168_BSDebateArena_cHJXXLvZk2s.mp3",
     "transcript": "reports that suicide in America is on the rise. And I haven't completely fact checked the statistic. So maybe you know better. But if that's the case, what do you think has gone wrong? So a couple of things. First of all, quick correction when I said earlier. If you remove car accident deaths, like accidental deaths where people are going to die in suicide, then the United States life expectancy rate is the highest in the industrialized world. It's those two, not birth rate. OK, so as far as why the suicide rate is going up, so I wrote an entire book on this. It's coming out in a couple of months. I think that America right now is experiencing a crisis of purpose. I think that we have an entire generation of people, a couple of generations of people who legitimately don't know what their goal in life is, what their purpose in life is.",
-    "is_political": false,
+    "is_political": true,
     "confidence": "low",
     "reason": "the transcript does not discuss election/voting discussion, political parties or candidates, government policy, political ideology, social justice activism, protests, legislation, or political news commentary"
   },
@@ -4175,7 +4175,7 @@
     "index": 32,
     "filename": "0032_DebatetheRepublic_6CDUsmWd9pQ.mp3",
     "transcript": "I'm simply just responding to what you said. What you said is you. It's all the voters, they don't know. No, I know a lot of people that voted for Trump who had absolutely no idea that he was gonna defund the, and of course this is just an anecdote, but I know that this is the truth, not everybody when they vote, looks at every single little thing and every little aspect like you and I might of why we would vote for somebody, like we're both political commentators. That's not. Right, so fun, and as a political commentator, then I will argue more forcefully against you because now you're not just like a college kid searching for this. Has education America improved or gotten worse since the Department of Education was formed? It has literally been three months, I have absolutely no idea. Since the Department of Education was formed in the 70s, we now have 50 years of evidence, has American education gotten better since we've had a Department of Education or has it gotten worse?",
-    "is_political": false,
+    "is_political": true,
     "confidence": "low",
     "reason": "The transcript does not contain any explicit political discussion about election/voting, political parties, government policy, or social justice activism."
   },
@@ -4934,7 +4934,7 @@
     "index": 129,
     "filename": "0129_Policyams_c9ImLymJw5Y.mp3",
     "transcript": "What the fuck are you saying? It's the most bizarre headline. I would love to be a stay-at-home mom. I would love to be a homemaker and a wife. But I can't do that because the way the economy is set up is I'm forced to work. I'm forced to get an education, a higher education, a college degree, in order to make enough money that I can be financially independent and afford my own home or my own rent or my own gas or my own groceries, my own insurance. And it's extremely difficult to do that and it's very isolating as a woman. I would go back to the 1950s in a second just so I wouldn't have to deal with this shit. You're talking about a traditional nuclear family where the woman doesn't work in a married household with kids. Because of the way it is, most women were married by the age of 21 up until the 1970s. And it was better for women mental health-wise long-term to be able to go into that long-term committed relationship and have the established family instead of being forced to slave away for a corporation that doesn't like you, doesn't care about you. Makes you sit under fluorescent lights for eight, nine, 10 hours a day. You get a lunch break, you get health insurance, but do you have somebody who loves you, staring at you every day like your child? No, it's horrible.",
-    "is_political": false,
+    "is_political": true,
     "confidence": "low",
     "reason": "The transcript does not contain any explicit political content, focusing instead on the speaker's personal experience and frustration with societal expectations."
   },
@@ -5418,7 +5418,7 @@
     "index": 187,
     "filename": "0187_Policyams_Q_zndAryp9o.mp3",
     "transcript": "Can you pull it up just as we can see it because it's so nuts? United States Constitution would like to have a word. That's why people can't, right? Yeah, it's people can't have a word. Because the reason that that's in the Constitution is to prevent the president of the United States from accepting things that are being tripped, that are being perceived as a bride. What is the national, the goal of the trip is not to get a giant gift that he can save belongs to him as president, but that he takes with him when he leaves the office. Abby, you have to distance yourself from Trump to Ranger and Syndrome. It's irrelevant to policy. It doesn't matter. What matters is, why are all these AI guys have you heard of the immolences?",
-    "is_political": false,
+    "is_political": true,
     "confidence": "low",
     "reason": "the transcript does not mention any political parties, candidates, government policies, or social justice activism"
   },
