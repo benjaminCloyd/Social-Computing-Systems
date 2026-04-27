@@ -149,3 +149,48 @@ candidate
 campaign
 endorsement
 impeach
+shutdown
+  treatment/35mtreatment.json: 1/660 entries updated
+  control/35mcontrol.json: 1/616 entries updated
+district
+  treatment/35mtreatment.json: 1/660 entries updated
+verdict
+pardon
+  treatment/35mtreatment.json: 2/660 entries updated
+  control/18mcontrol.json: 1/470 entries updated
+  control/35fcontrol.json: 1/988 entries updated
+  control/35mcontrol.json: 1/616 entries updated
+conflict
+  treatment/18ftreatment.json: 1/538 entries updated
+  treatment/35mtreatment.json: 4/660 entries updated
+  control/35fcontrol.json: 2/988 entries updated
+crisis
+  treatment/18mtreatment.json: 1/505 entries updated
+  treatment/35mtreatment.json: 1/660 entries updated
+  control/35fcontrol.json: 1/988 entries updated
+  control/35mcontrol.json: 1/616 entries updated
+border
+  treatment/18ftreatment.json: 1/538 entries updated
+  treatment/18mtreatment.json: 1/505 entries updated
+  control/35fcontrol.json: 1/988 entries updated
+asylum
+treaty
+ceasefire
+reform
+  treatment/18ftreatment.json: 1/538 entries updated
+  control/35mcontrol.json: 1/616 entries updated
+refugee
+  treatment/18mtreatment.json: 1/505 entries updated
+recession
+probe
+  control/35fcontrol.json: 1/988 entries updated
+testimony
+  treatment/35mtreatment.json: 2/660 entries updated
+tax
+  treatment/18ftreatment.json: 2/538 entries updated
+  treatment/18mtreatment.json: 2/505 entries updated
+  treatment/35ftreatment.json: 1/511 entries updated
+  treatment/35mtreatment.json: 3/660 entries updated
+  control/18mcontrol.json: 2/470 entries updated
+  control/35fcontrol.json: 3/988 entries updated
+  control/35mcontrol.json: 5/616 entries updated

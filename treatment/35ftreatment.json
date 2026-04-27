@@ -72,7 +72,7 @@
     "index": 7,
     "filename": "0007_TypsyFlypsy_E-7kizOlJec.mp3",
     "transcript": "get someone. I'm not trying to go see the price for something. I don't know who that would be. Okay thank you. Okay yeah no rush. Hi, are you the guy I'm supposed to talk to? She's looking at this table but I saw it's been around for a month so I was just hoping to go down a little. Yeah I think we can. Yeah I could do 45 on that for sure. Could you do 35? Okay, I need to wait here. Okay thanks. Okay and I had a ten dollar off coupon so I actually paid $27 with tax for this table.",
-    "is_political": false,
+    "is_political": true,
     "confidence": "low",
     "reason": "no political topics or keywords are present in the transcript"
   },
