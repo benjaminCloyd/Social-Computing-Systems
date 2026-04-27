@@ -142,9 +142,8 @@ def make_chart(age: str, condition: str, stem: str, leanings: dict[str, str]):
     for ax in axes[len(runs):]:
         ax.set_visible(False)
 
-    # Uniform y scale across the 3 subplots for this group
     for ax in axes[:len(runs)]:
-        ax.set_ylim(0, max(max_y + 1, 2))
+        ax.set_ylim(0, 12)
 
     # Shared legend
     legend_handles = [
