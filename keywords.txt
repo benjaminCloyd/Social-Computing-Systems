@@ -143,3 +143,9 @@ ballot (re-run)
 vote (re-run)
 debate (re-run)
 nominee (re-run)
+veto
+candidate
+  treatment/18mtreatment.json: 1/505 entries updated
+campaign
+endorsement
+impeach
