@@ -23,3 +23,58 @@ rogan
   treatment/35ftreatment.json: 1/511 entries updated
   treatment/35mtreatment.json: 1/660 entries updated
   control/35mcontrol.json: 1/616 entries updated
+authoritarian
+democrat
+  treatment/35ftreatment.json: 1/511 entries updated
+  treatment/35mtreatment.json: 2/660 entries updated
+republican
+  control/35mcontrol.json: 1/616 entries updated
+gerrymander
+misinformation
+tariff
+  treatment/35mtreatment.json: 1/660 entries updated
+hitler
+  treatment/18mtreatment.json: 1/505 entries updated
+inflation
+nato
+  treatment/18mtreatment.json: 1/505 entries updated
+  treatment/35mtreatment.json: 1/660 entries updated
+  control/35fcontrol.json: 2/988 entries updated
+diplomacy
+  control/35fcontrol.json: 1/988 entries updated
+whistleblower
+partisan
+executive order
+regulation
+  treatment/35ftreatment.json: 1/511 entries updated
+sanctions
+soverignty
+sovereignty
+escalation
+  treatment/35mtreatment.json: 2/660 entries updated
+identity politics
+reproductive
+  treatment/18mtreatment.json: 1/505 entries updated
+criminal
+  treatment/35mtreatment.json: 3/660 entries updated
+  control/35fcontrol.json: 4/988 entries updated
+media
+  treatment/18ftreatment.json: 8/538 entries updated
+  treatment/18mtreatment.json: 6/505 entries updated
+  treatment/35ftreatment.json: 15/511 entries updated
+  treatment/35mtreatment.json: 20/660 entries updated
+  control/18fcontrol.json: 7/491 entries updated
+  control/18mcontrol.json: 7/470 entries updated
+  control/35fcontrol.json: 32/988 entries updated
+  control/35mcontrol.json: 13/616 entries updated
+accountability
+  treatment/18mtreatment.json: 1/505 entries updated
+immigration
+  treatment/35mtreatment.json: 2/660 entries updated
+  control/35mcontrol.json: 1/616 entries updated
+immigrant
+disinformation
+sanctions (re-run)
+appropriations
+jinping
+putin
