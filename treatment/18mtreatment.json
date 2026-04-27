@@ -39,7 +39,7 @@
     "index": 6,
     "filename": "0006_ArchitecturalStories_3ZeX4zKOJ0Y.mp3",
     "transcript": "Trump definitely wouldn't want you to know this secret. Mount Rushmore isn't just four faces in a mountain. This is Mount Rushmore, carved into the black hills of South Dakota, George Washington, Thomas Jefferson, Theodore Roosevelt, Abraham Lincoln, four presidents, 60-foot faces, over 400 workers blasting granite in the 1920s and 30s. It looks solid, permanent, untouchable, but it isn't. The monument took 14 years to carve, dynamite shaped, 90 percent of it, and the sculptor Goodson Borglum had a much bigger vision than just faces. He didn't want a sculpture. He wanted a message to the future, but there was a problem. How do you explain America to people hundreds of years from now? Then suddenly, Borglum started carving something else, not on the front, not where tourists could see. Behind Lincoln's head, workers began drilling into the mountain, a hidden chamber high above the ground, almost impossible to reach. Funding ran out. Borglum died. The project stopped. For decades, people thought it was abandoned. It wasn't. Inside Mount Rushmore, the biggest secret hidden behind the faces, is a sealed room called the Hall of Records. Inside it, a titanium vault, with documents explaining the Constitution, the Declaration of Independence, and why those four presidents were chosen. Most visitors never see it. It's not on the tour. So, while millions stare at the four faces, there's a secret chamber in the mountain, waiting for the future to open it.",
-    "is_political": false,
+    "is_political": true,
     "confidence": "low",
     "reason": "the transcript does not discuss election/voting discussion, political parties or candidates, government policy, political ideology, social justice activism, protests, legislation, political news commentary, or calls to political action"
   },
@@ -83,7 +83,7 @@
     "index": 9,
     "filename": "0009_SenatorSanders_N1Fmnu13dcc.mp3",
     "transcript": "President Trump has claimed, over and over again, that he has already solved the problem. I don't even know what I'm holding this hearing. President Trump has solved the problem. How wonderful is that? In a state of union speech in February, President Trump said, quote, I took prescription drugs, a very big part of healthcare, from the highest price in the entire world to the lowest. And quote, hey, Americans, there we go, without paying the lowest prices in the world for prescription drugs. Anyone believe that? I don't think so. Well, Mr. Chairman, if that was true, it would really be incredible. If President Trump load the cost of prescription drugs as he indicated by 1,200, 1,300 percent, you know what that means? Means when you go into the drug store, not only did not have to pay anything, the pharmacist gives you money in return. How fortunate is that? Millions of people walking into drugs those pharmacists giving them money, because that's gross, anything, anything. Unfortunately, anyone who has taken recent trip to the pharmacy count to understand that what President Trump has said has surprised, surprised, no basis in reality. Here are the facts. The American people continue to pay by far the highest prices in the world for prescription drugs. That was true before President Trump was president. In most cases, it is even more accurate today. With very few exceptions, prescription drug prices have gone up, not down since Trump was elected. In fact, during the first two weeks of this year, the pharmaceutical industry raised the price of more than 870 prescription drugs in our country.",
-    "is_political": false,
+    "is_political": true,
     "confidence": "low",
     "reason": "The transcript does not contain any explicit political discussion or calls to action, but rather focuses on criticizing President Trump's claims about reducing prescription drug prices."
   },
@@ -105,7 +105,7 @@
     "index": 11,
     "filename": "0011_demandjustice8512_jNYnkY3KmaY.mp3",
     "transcript": "Who won the popular vote in the 2020 presidential election? The popular vote is not something that's mentioned in the Constitution and it's asking you, it's a basic question. If you took an eighth grader from Kansas and Missouri and Iowa and Illinois and said who won the popular vote in the 2020 election and they submitted an explanation of the electoral college you couldn't give him a passing grade. So let me just ask you as an American citizen who I'm sure voted in that election who won the popular vote in the 2020 election? As an American citizen, as Senator Schmidt said, here's about precision. I want to be very clear that as a lawyer looking at the Constitution, it's electoral college that matters and that process played forth in December of 2020 and January of 2021. At the end of this exercise, at some point there is going to be a video I'm sure that will be released which will watch the painful explanation by every nominee from the Trump White House for the federal bench as to why they couldn't answer the basic question every single person in this room knows is true. Donald Trump lost the election in 2020 to Joe Biden. He may regret it, he may have denied it, but it's a fact. And the reason why we continue to engage in these political gymnastics is a question about whether or not you can ever say no to Donald Trump when it comes to any future service and that is a basic concern.",
-    "is_political": false,
+    "is_political": true,
     "confidence": "low",
     "reason": "The transcript does not discuss election/voting discussion, political parties or candidates, government policy, political ideology, social justice activism, protests, legislation, political news commentary, or calls to political action."
   },
@@ -193,7 +193,7 @@
     "index": 19,
     "filename": "0019_sugitasughog6468_9NyWtFHs8XE.mp3",
     "transcript": "Hey, guys, can you help me with the vishas? I can't, Trump and every man from competing in a woman's sport. Not happening. Pro Marriage Tip, it takes two people to actually destroy a relationship. You and your mother, because she made you that way. And I'm just dealing with the final consequences. I think I'm... Pro Marriage Tip, if your wife asks you why you do not make enough money, let her know that wealthy men also come with hotter women. That also means that you do not want to replace her, because you never have appreciated for that.",
-    "is_political": false,
+    "is_political": true,
     "confidence": "low",
     "reason": "no political parties, candidates, or ideologies mentioned"
   },
@@ -204,7 +204,7 @@
     "index": 22,
     "filename": "0022_FreeMarketNetwork_0AUOEYrU8yw.mp3",
     "transcript": "I think it's fair to say this video has aged perfectly. It is my esteemed pleasure to introduce Mr. and Mrs. Donald Trump. Look folks, before we go too far, I've got something to tell you. Excuse me, but I've got something to tell you first. Thank you for ruining my life! Ashley! What did you do? Everybody's always blaming me for everything.",
-    "is_political": false,
+    "is_political": true,
     "confidence": "low",
     "reason": "the transcript does not mention any of the specified political topics"
   },
@@ -325,7 +325,7 @@
     "index": 34,
     "filename": "0034_VelocityRanks_FJqvqbXh9cU.mp3",
     "transcript": "She was 12, I was 30, but anyway, Mr. President Trump, former President Trump, get life, man. Uh, Mayor Bowser and Chancellor Barbie. You know, thank you for joining us as well. And for families. Hi, Joe. Let's see if you can even get to the damn mark this time. Remember likely practice, walk around, go up and say hi to the general, and then get behind the podium. Upstairs, careful, careful. You know how you're upstairs. Okay, back podium. Yes, walk forward, walk forward, say hi to the general, and stop. And stop. Where do you go? Not that, Joe. Oh my god.",
-    "is_political": false,
+    "is_political": true,
     "confidence": "low",
     "reason": "The transcript does not mention any of the specified political topics, but its tone suggests a satirical or mocking intent."
   },
@@ -545,7 +545,7 @@
     "index": 54,
     "filename": "0054_viralitydebater_F8odvlV1Kos.mp3",
     "transcript": "When this liberal argued immigration, Charlie Kirk exposed the contradiction instantly. I'm an illegal immigrant and I'm here trying to debate you. What do you call ice? I mean, Tom Homan would probably see the video and you'd probably go back to your true country. Okay. That's how it works, right? But let me just ask you a question. What is the fair way in your ideal? What's your name, sorry? I'm Claudio, sir. Yeah, Claudio. And this is just a thought exercise but it's very revealing. You are king. And you find out that there are 30 million uninvited people in your country. What do you do with them? Oh, in this case, I try to find the most humane way of sending them back to our country. But, first of all, I want to say something. That's what we're doing. Wait, let me just say something. What's we're doing? Let me just say something. Pink Claudio. Long live the king.",
-    "is_political": false,
+    "is_political": true,
     "confidence": "low",
     "reason": "The transcript does not contain any explicit political discussion or calls to action, but it does contain a hypothetical scenario that could be interpreted as a thought experiment about immigration policy."
   },
@@ -710,7 +710,7 @@
     "index": 69,
     "filename": "0069_ignitedebate_XN-mJIo4VMY.mp3",
     "transcript": "You can see everyone, they have these inflatable cushy chairs. Everyone is reading. This would last about 35 seconds in most American cities. 50% of our children are obese or overweight. We do not have a child starvation issue. We have a child obesity problem. I am a man and you are a man and you will look me in the eye like a man. I could see that you're a struggling individual. What are we doing? Cheering on the cubs in the woods. You want to have all the fun, but none of the responsibility. I'm saying accidents still happen. You know what happens when accidents involve other human beings? You don't terminate them. I was haycrime five times in one night, okay? Three of them by Trump supporters. I don't believe you. I don't believe you. I think you're making it up. Do you believe that we live in a paid Cherokee and it negatively affects women? No.",
-    "is_political": false,
+    "is_political": true,
     "confidence": "low",
     "reason": "the transcript does not discuss election/voting, political parties, government policy, or social justice activism"
   },
@@ -1112,10 +1112,10 @@
   },
   {
     "video_id": "k-2xX6IA4Ng",
-    "channel": "김현욱-v5x",
+    "channel": "\uae40\ud604\uc6b1-v5x",
     "url": "https://www.youtube.com/shorts/k-2xX6IA4Ng",
     "index": 106,
-    "filename": "0106_김현욱-v5x_k-2xX6IA4Ng.mp3",
+    "filename": "0106_\uae40\ud604\uc6b1-v5x_k-2xX6IA4Ng.mp3",
     "transcript": "My! Hey!!! Hoping! Hey! Are you confirmed? Help yourselves! Hey Nip! Huh? The End",
     "is_political": false,
     "confidence": "low",
@@ -1508,10 +1508,10 @@
   },
   {
     "video_id": "CiN_h1PdZ4c",
-    "channel": "AnTrâm-n8f",
+    "channel": "AnTr\u00e2m-n8f",
     "url": "https://www.youtube.com/shorts/CiN_h1PdZ4c",
     "index": 191,
-    "filename": "0191_AnTrâm-n8f_CiN_h1PdZ4c.mp3",
+    "filename": "0191_AnTr\u00e2m-n8f_CiN_h1PdZ4c.mp3",
     "transcript": "Ok. Okay. Now, this is for golf today. They have all decided to settle in the middle of the fairway. Are we going to go straight there? Oh my God, what do I do? Oh my God. I told you. Oh, look at there. Look at there. Oh, what you look at there.",
     "is_political": false,
     "confidence": "low",
@@ -1519,10 +1519,10 @@
   },
   {
     "video_id": "0ErhA6JoqWA",
-    "channel": "전준미-c3u",
+    "channel": "\uc804\uc900\ubbf8-c3u",
     "url": "https://www.youtube.com/shorts/0ErhA6JoqWA",
     "index": 144,
-    "filename": "0144_전준미-c3u_0ErhA6JoqWA.mp3",
+    "filename": "0144_\uc804\uc900\ubbf8-c3u_0ErhA6JoqWA.mp3",
     "transcript": "She missed the vault completely. Her hands never touched it. She crashed straight into the ground, and she wasn't the only one. At the Sydney Olympics, this kept happening. Elite gymnasts were missing the vault not once, but over and over again. People blamed pressure, Olympic nerves, but that explanation didn't hold because this wasn't one mistake. It was happening to everyone. The vault hadn't changed. Same model, same Olympics rules. Then a 16-years-old gymnast felt something off. The vault felt too low. Officials checked the measurements 120 centimeters perfect, but the rules they checked were outdated. Two years earlier, the official vault height had been raised and a printing error erased that change. The vault was set wrong. At the Olympics, 18 athletes had already competed. Somewhere...",
     "is_political": false,
     "confidence": "low",
@@ -1684,10 +1684,10 @@
   },
   {
     "video_id": "NEJgk4W7q3A",
-    "channel": "ViệtQuốc-v4h",
+    "channel": "Vi\u1ec7tQu\u1ed1c-v4h",
     "url": "https://www.youtube.com/shorts/NEJgk4W7q3A",
     "index": 159,
-    "filename": "0159_ViệtQuốc-v4h_NEJgk4W7q3A.mp3",
+    "filename": "0159_Vi\u1ec7tQu\u1ed1c-v4h_NEJgk4W7q3A.mp3",
     "transcript": "It's the same, oh hey, me or head, they're still with their tanks",
     "is_political": false,
     "confidence": "low",
@@ -1799,7 +1799,7 @@
     "index": 7,
     "filename": "0007_SaraLShow_TNenYTAPJHs.mp3",
     "transcript": "Donald Trump is seated in first class next to a little girl in an airplane. He turns to her and says, Do you want to talk? I've found flights go so much faster if you strike up a conversation with your fellow passenger. The little girl looks up from her book and says, Okay, what do you want to talk about? He smiles smugly and says, Oh, I don't know, we could talk about my presidency or how about global warming? Universal health care? Or stimulus packages? She says, Okay, those could be interesting topics, but let me ask you a question first. A horse, a cow, and a deer all eat the same stuff, right? Grass. Yet a deer excreats little pellets, a cow produces a flat patty, and a horse makes clumps. Why do you think that is? Trump thinks about it for a moment. Hmm, I have no idea. The little girl closes her book, looks up at him and says, Then why do you feel qualified to discuss presidency, global warming, health care, or the economy when you don't know crap?",
-    "is_political": false,
+    "is_political": true,
     "confidence": "low",
     "reason": "The conversation does not involve election/voting discussion, political parties or candidates, government policy, political ideology, social justice activism, protests, legislation, political news commentary, or calls to political action."
   },
@@ -2327,7 +2327,7 @@
     "index": 29,
     "filename": "0029_thefrontforce_qPP7cGZOa0I.mp3",
     "transcript": "That's the biggest bunch of bullshit that I've ever heard. I came home from high school and my dad was home. World War II vets, six bronze battle stars. And I come home and told my dad, dad, we got a fight in Vietnam. My dad goes, why? Why do you think that? I said, we have to stop the domino effect of communism. If we don't stop him there, the communism's going to go all over the world. He looked at me and he said, is that what they're teaching you in school? I said, yeah, my dad looked at me and said, we're not there to stop communism. We're there because somebody's making big money. Well, I was fortunate to come home. And I was fortunate that my second deployment they had pulled us out. I was at the very tail end February 71 till November 71. I was able to come home to my dad and say, guess what, dad, you are right. And my dad looked at me and said, oh, I always knew I was right. It's sometimes you just have to learn things a hard way.",
-    "is_political": false,
+    "is_political": true,
     "confidence": "low",
     "reason": "the conversation is about the speaker's personal experience with their father during Vietnam War, without any discussion of politics or government policy."
   },
@@ -2844,7 +2844,7 @@
     "index": 86,
     "filename": "0086_KirkClips_HQ_gsVzGCrEgwE.mp3",
     "transcript": "If I'm going to apply to college, would I want to go to a solid Christian college in an education or would I want to go to a liberal college and try to change the culture? What a great question. So, here's the best first question you must ask. Why do you want to go to college? Right? That's the first question, because not everyone should. And then ask yourself the question, what are you good at? You guys don't ask that question very often, right? So they're like, what's your passion, dumbest question ever? Doesn't matter. It's completely irrelevant. Passion's come later. Find your skill. Everyone's good at something. I could tell you things I'm good at and things I'm not good at. Find your skill. The passion will follow. Once you find your skill, then find the school. If that skill necessitates a certification, maybe it's a lawyer, maybe you're good at writing and you want to be a lawyer, maybe you're good at helping people who want to be a nurse, maybe you're good at instructing and you want to be a teacher. Find a school at the highest level for the least amount of money that can graduate you the quickest that can then not completely deteriorate your values and make you question everything that you know to be true.",
-    "is_political": false,
+    "is_political": true,
     "confidence": "low",
     "reason": "the transcript does not discuss election/voting discussion, political parties or candidates, government policy, political ideology, social justice activism, protests, legislation, political news commentary, or calls to political action"
   },
@@ -3229,7 +3229,7 @@
     "index": 125,
     "filename": "0125_VeteranVoice_cpdQvMFoV3I.mp3",
     "transcript": "I heard you had an incident with a bear. I had to get up this mountain and I ended up in a man's knee of forest. So it's like swimming through a sea of a thousand pitchforks. I tried to get up a little bit higher to see if I could spot which direction I should go to. Got up a couple of branches high. Right as I'm reaching for this next one, I think snapped. I fell and then I heard this noise behind me. I saw this thing coming at me and I instantly thought that's a baby bear. Then I heard a massive rushing of the man's knee of vines behind it. Picked up my rucksack, used it as a shield and just started sprinting like a madman and mowing down man's knee as best I could. Could hear him getting closer. And once I broke free, the only thing in front of me was a cliff. I'm like, I'm not getting eaten by a freaking bear while I'm trying to go through selection. So I just hurled my body off the edge of the bush. And then I look up and there on top is a baby pig and a mama. And then I'm like, dude, you got to get back in it.",
-    "is_political": false,
+    "is_political": true,
     "confidence": "low",
     "reason": "the transcript does not mention any political topics or themes"
   },
@@ -3262,7 +3262,7 @@
     "index": 128,
     "filename": "0128_PrimeShortsEditor_XAE3cxFCauQ.mp3",
     "transcript": "God's the person who admires the work of Jesus Christ. What concerns me? One guy said that Trump was anointed by Jesus Christ. This was to bring the army guidance. So Jesus comes back, said it with a big creepy smile on his face, apparently. So what does he say? His first message was simple, and it was powerful. He sent a message, God is good. In that moment of isolation and danger, his faith and fighting spirit shown through God. Jesus. The Jessica Lynch story, history doesn't beat itself, but it rhymes.",
-    "is_political": false,
+    "is_political": true,
     "confidence": "low",
     "reason": "the transcript does not mention any political parties, candidates, government policy, or calls to action"
   },
@@ -3416,7 +3416,7 @@
     "index": 146,
     "filename": "0146_CapitalVersee_PRqQZTzA3no.mp3",
     "transcript": "Do you think he runs? DeSantis, I'd be shocked if he doesn't. I'd be shocked if he doesn't. All the stars are aligned for him. In politics, the worst thing you can do is miss your moment. That's gonna be so interesting if he runs because I feel like Trump hasn't had a real rival. Really rival in the Republican side, right? That's gonna be like, yeah, where I need to watch. I think that DeSantis's tactic is gonna be what it's mostly been so far, which is just run by ignoring Trump. And if Trump tries to bite his ankles, basically just say, listen, I don't have a bad word to say about the former president of the United States. I like a lot of what he did as president, but it's time for a new blood. And I like what we've done in Florida, and I think that stands up against anybody.",
-    "is_political": false,
+    "is_political": true,
     "confidence": "low",
     "reason": "The transcript discusses politics, but the language is more focused on speculation about Trump's potential rival DeSantis rather than making a direct political statement."
   },
@@ -3790,7 +3790,7 @@
     "index": 184,
     "filename": "0184_CNN_sQGjz7GgNX8.mp3",
     "transcript": "Iran claims that this is a ballistic missile, paraded around to Iran just as the end of a ceasefire with the U.S. approached. According to Iranian state media, the missile was wheeled out during a pro-regime rally in Iran's revolution square. Footage from Iranian state broadcaster IRIB shows crowds gathering in the square waving flags. Iran claims that this was a Kharam Shah IV medium-range ballistic missile. U.S. President Donald Trump has extended the two-week truce as talks potentially continue.",
-    "is_political": false,
+    "is_political": true,
     "confidence": "low",
     "reason": "The transcript does not mention election/voting discussion, political parties or candidates, government policy, political ideology, social justice activism, protests, legislation, political news commentary, or calls to political action."
   },
@@ -4175,7 +4175,7 @@
     "index": 32,
     "filename": "0032_DebatetheRepublic_6CDUsmWd9pQ.mp3",
     "transcript": "I'm simply just responding to what you said. What you said is you. It's all the voters, they don't know. No, I know a lot of people that voted for Trump who had absolutely no idea that he was gonna defund the, and of course this is just an anecdote, but I know that this is the truth, not everybody when they vote, looks at every single little thing and every little aspect like you and I might of why we would vote for somebody, like we're both political commentators. That's not. Right, so fun, and as a political commentator, then I will argue more forcefully against you because now you're not just like a college kid searching for this. Has education America improved or gotten worse since the Department of Education was formed? It has literally been three months, I have absolutely no idea. Since the Department of Education was formed in the 70s, we now have 50 years of evidence, has American education gotten better since we've had a Department of Education or has it gotten worse?",
-    "is_political": false,
+    "is_political": true,
     "confidence": "low",
     "reason": "The transcript does not contain any explicit political discussion about election/voting, political parties, government policy, or social justice activism."
   },
@@ -4384,7 +4384,7 @@
     "index": 63,
     "filename": "0063_jonathoncouchey7151_o4OES7tBMGw.mp3",
     "transcript": "All right, so this is a prayer for the United States So do their Jesus prepare for the protection the deliverance the salvation the rifle and the output of the spirit upon the United States And upon all the individuals living in and making decisions in and for the United States father Included all the leaders and the district councils and all the military and all the police father and Over to all three trump and his leadership councils for the poor are you spirit upon us all father and poor are you spirit upon all the individuals who find out about exposed and stop The corruption evil that has gone on this nation in the past going on right now And that which is planned to go on in the future father Or protect these individuals their friends their families their houses and their jobs And a single thing of theirs be touched for rather any attempts against them father When you turn back down pull it's at the point purpose positions and plus they will be exposed broken shattered and come to not that your people will be delivered Father part your spirit upon all of the everybody who Living in and making decisions in and for the United States father in order that the The correct decisions will be made that the plans purpose positions and plots the enemy will be exposed broken and shattered and come to not And that your people will be delivered father That there would be a revival in that out of the spirit in the United States according to a will good purpose father Set on fire all of your churches for father and all of your your people Lord Father put a deeper revelation of the knowledge of you and your spirit Lord as we Or we need you Lord that Or that there would be a revival on perspective that we would see your glory within your churches I'll move out the spirit a healing Lord But in through all these things father of prayer this nation will be established in and for the purposes of what you originally called us to be in this time Lord Father we bring all these requests to you only and invite to the precious name and blood of your Son like Jesus Christ Amen",
-    "is_political": false,
+    "is_political": true,
     "confidence": "low",
     "reason": "The transcript appears to be a prayer with religious themes and does not contain any explicit political content or discussion."
   },
@@ -5418,7 +5418,7 @@
     "index": 187,
     "filename": "0187_Policyams_Q_zndAryp9o.mp3",
     "transcript": "Can you pull it up just as we can see it because it's so nuts? United States Constitution would like to have a word. That's why people can't, right? Yeah, it's people can't have a word. Because the reason that that's in the Constitution is to prevent the president of the United States from accepting things that are being tripped, that are being perceived as a bride. What is the national, the goal of the trip is not to get a giant gift that he can save belongs to him as president, but that he takes with him when he leaves the office. Abby, you have to distance yourself from Trump to Ranger and Syndrome. It's irrelevant to policy. It doesn't matter. What matters is, why are all these AI guys have you heard of the immolences?",
-    "is_political": false,
+    "is_political": true,
     "confidence": "low",
     "reason": "the transcript does not mention any political parties, candidates, government policies, or social justice activism"
   },

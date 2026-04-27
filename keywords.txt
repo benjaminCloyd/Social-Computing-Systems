@@ -1,0 +1,19 @@
+trump
+election
+  treatment/18ftreatment.json: 2/538 entries updated
+  treatment/18mtreatment.json: 1/505 entries updated
+  treatment/35mtreatment.json: 1/660 entries updated
+  control/18fcontrol.json: 1/491 entries updated
+  control/35fcontrol.json: 1/988 entries updated
+communism
+  treatment/18mtreatment.json: 1/505 entries updated
+communist
+  treatment/18ftreatment.json: 1/538 entries updated
+conservative
+  treatment/18ftreatment.json: 1/538 entries updated
+  treatment/35mtreatment.json: 1/660 entries updated
+liberal
+  treatment/18ftreatment.json: 2/538 entries updated
+  treatment/18mtreatment.json: 2/505 entries updated
+liberals
+conservatives
