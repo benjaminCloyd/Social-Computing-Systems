@@ -194,3 +194,7 @@ tax
   control/18mcontrol.json: 2/470 entries updated
   control/35fcontrol.json: 3/988 entries updated
   control/35mcontrol.json: 5/616 entries updated
+deport
+  treatment/18ftreatment.json: 1/538 entries updated
+deported
+deportation
