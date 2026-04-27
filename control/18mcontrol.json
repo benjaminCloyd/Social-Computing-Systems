@@ -1458,7 +1458,7 @@
     "index": 32,
     "filename": "0032_LearnThroughTunes_cBMc4eL_byc.mp3",
     "transcript": "Have you ever wondered what would happen if two of the strongest magnets hit each other? Some people think they'll simply stick together like any normal magnet but that's actually not true You've probably noticed that these are neodymium 100 times stronger than the ones you see at home They can make iron sand rice straight up but their power is actually the biggest weakness Because they hit with such violent force they don't just stick They shatter into shards instantly but still you haven't like this video",
-    "is_political": false,
+    "is_political": true,
     "confidence": "high",
     "reason": "the transcript does not mention any of the specified political topics"
   },
@@ -2052,7 +2052,7 @@
     "index": 171,
     "filename": "0171_edmoments-i4b_A1UOIk3_T6Q.mp3",
     "transcript": "Tiger Woods has been real quiet since this dropped. That ball was definitely a paid actor. Physics left the chat on this swing. Bro's aim is actually illegal. Subscribe before the ball drops, if you're fast enough.",
-    "is_political": false,
+    "is_political": true,
     "confidence": "low",
     "reason": "the transcript does not mention any political topics or issues"
   },
@@ -4285,7 +4285,7 @@
     "index": 98,
     "filename": "0098_Core-forever1_LBceMAsXpSU.mp3",
     "transcript": "You're not a failure of a child, asshole. You suck at therapy. I wish I never came. You know who else wishes they never came? Your dad. There's something seriously wrong with me. What's wrong? When I look in the mirror, all I can think is no one fucking likes you. There is absolutely nothing wrong with being honest. I walk in and I see my precious son who's getting bullied for being a furry. I mean, what would you have done if you'd walked in and saw that? I probably would have joined in on the bully. And you know, my dad beats my ass every night. And I just take it. But I refuse to fight violence with violence. Yeah, and how's that working out for you? Duck and weave next time, bitch. I just, I need to know why no guy will date me. It's because you're mid. Did you seriously just call me mid? Yeah. Well, you might as well just call me an ugly pig. Hey, wait, I'm sorry I called you mid. Ugly pig is a way more accurate description. Don't sweat the small stuff. What do you mean don't sweat the small stuff? I just told you my dad died. Yeah. And last week you told me your dad hits you. The enemy is dead. And war, that's called victor.",
-    "is_political": false,
+    "is_political": true,
     "confidence": "low",
     "reason": "the transcript does not contain any of the specified political content topics"
   },

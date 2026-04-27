@@ -78,3 +78,68 @@ sanctions (re-run)
 appropriations
 jinping
 putin
+affordability
+climate
+  treatment/18ftreatment.json: 1/538 entries updated
+  treatment/35mtreatment.json: 2/660 entries updated
+terrorist
+  treatment/18ftreatment.json: 1/538 entries updated
+terrorism
+domestic
+  treatment/35mtreatment.json: 1/660 entries updated
+  control/35mcontrol.json: 1/616 entries updated
+racism
+  treatment/18mtreatment.json: 1/505 entries updated
+racist
+  treatment/18mtreatment.json: 2/505 entries updated
+  treatment/35ftreatment.json: 2/511 entries updated
+  control/35mcontrol.json: 1/616 entries updated
+violent
+  treatment/18ftreatment.json: 1/538 entries updated
+  treatment/35mtreatment.json: 1/660 entries updated
+  control/18mcontrol.json: 1/470 entries updated
+  control/35mcontrol.json: 1/616 entries updated
+violence
+  treatment/18mtreatment.json: 1/505 entries updated
+  control/18mcontrol.json: 1/470 entries updated
+  control/35fcontrol.json: 1/988 entries updated
+  control/35mcontrol.json: 1/616 entries updated
+healthcare
+  treatment/18mtreatment.json: 1/505 entries updated
+  treatment/35mtreatment.json: 1/660 entries updated
+  control/35mcontrol.json: 1/616 entries updated
+deficit
+  control/35mcontrol.json: 1/616 entries updated
+illegal
+  treatment/18ftreatment.json: 1/538 entries updated
+  treatment/18mtreatment.json: 4/505 entries updated
+  treatment/35mtreatment.json: 1/660 entries updated
+  control/18mcontrol.json: 1/470 entries updated
+  control/35fcontrol.json: 3/988 entries updated
+  control/35mcontrol.json: 1/616 entries updated
+pundit
+  treatment/18mtreatment.json: 1/505 entries updated
+grifter
+shill
+bootlicker
+ballot
+ballots
+vote
+  treatment/18ftreatment.json: 2/538 entries updated
+  treatment/18mtreatment.json: 2/505 entries updated
+  treatment/35ftreatment.json: 2/511 entries updated
+  treatment/35mtreatment.json: 2/660 entries updated
+  control/35fcontrol.json: 1/988 entries updated
+  control/35mcontrol.json: 1/616 entries updated
+debate
+  treatment/18mtreatment.json: 6/505 entries updated
+  treatment/35mtreatment.json: 1/660 entries updated
+nominee
+  treatment/18mtreatment.json: 1/505 entries updated
+debunk
+  treatment/18mtreatment.json: 1/505 entries updated
+  treatment/35mtreatment.json: 1/660 entries updated
+ballot (re-run)
+vote (re-run)
+debate (re-run)
+nominee (re-run)

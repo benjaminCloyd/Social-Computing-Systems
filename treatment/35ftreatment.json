@@ -567,7 +567,7 @@
     "index": 52,
     "filename": "0052_ToySoldierMarketing_oqRnTW15l6c.mp3",
     "transcript": "This is no longer trickflation. I'm calling it greedflation. Like when head and shoulders increase the size of their bottle, but actually give you an ounce less. Cliff bars going from 6 to 5 by keeping the box the exact same. Drinks going from 70 to 60% juice. Chees strings of visibly shrinking in size. Even brands like Cerevae keeping the bottle identical but going from 12 to 11 fluid ounces. The only way to stop this is to vote with your wallet, so follow me because I'm exposing every brand that does this.",
-    "is_political": false,
+    "is_political": true,
     "confidence": "low",
     "reason": "the transcript discusses consumerism and product pricing changes without referencing politics or government policy directly."
   },
@@ -875,7 +875,7 @@
     "index": 80,
     "filename": "0080_BenediktTeifor_zJ0J9-ga60Q.mp3",
     "transcript": "You talked about the trash shock that you got from Bird. Yeah, Bird is the worst thing Bird said to you. Sal, you better ask for help. I was dumbfounded, yeah, he said, you know, I'm not double teaming me. I said, nah, I just mean you. He said, Sal, you better ask for help. He said, I'm telling you, bro, you better ask for help. And what happened next? He scored like three times in a row. I got two quick fouls, bring Dennis on this moment. And he was like, I told you, Sal, you better ask for help. And it wasn't like he was talking shit. When I hear young guys or guys talk about Larry Bird now, because it's something they want to talk about, it's the worst thing in the world. Not only did Larry Bird have to deal with the fact that he's playing against a whole bunch of black people. And he's as good when people thinking he's a great white hope. His best friends are the black guys he grew up playing against. And then when he gets in the pros, they want to separate him and the supremacist, grab him and say, he's ours. Yeah. And he just loves playing basketball and wanting to win. Yeah, he was, I've never heard any racist stories about him. No, he was always, all his friends growing up in England. Ever, ever.",
-    "is_political": false,
+    "is_political": true,
     "confidence": "low",
     "reason": "the transcript does not contain any of the specified political content topics"
   },
@@ -2470,7 +2470,7 @@
     "index": 42,
     "filename": "0042_CutTheVote_g2Wy6xqZGs0.mp3",
     "transcript": "And it is no wonder the people keep pointing out how the presidency has aged me. I look so old, John Banners already invited Netanyahu to speak in my funeral. Meanwhile, Michelle has an age today. I ask her what her secret is, she just says, fresh fruits and vegetables. It's aggravating.",
-    "is_political": false,
+    "is_political": true,
     "confidence": "low",
     "reason": "no political topics or references are present in the transcript"
   },
@@ -3130,7 +3130,7 @@
     "index": 123,
     "filename": "0123_TheoCuts_dsVC1D9hpOk.mp3",
     "transcript": "Thanks brother, we're not racist or I'm not trying to be, you know, I have some flare up, some traffic, but overall I'm good. Um, you know, I'm doing my best man, I'm out here on the front lines of not trying to be brother.",
-    "is_political": false,
+    "is_political": true,
     "confidence": "low",
     "reason": "the transcript does not mention any political topics such as election, voting, or government policy"
   },
