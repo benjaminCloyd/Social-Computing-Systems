@@ -4659,7 +4659,7 @@
     "index": 65,
     "filename": "0065_Your_channel_dtL92v51N4M.mp3",
     "transcript": "Got some bad news. The Senate just narrowly passed H.J.R. 140, approving a foreign-owned copper nickel mine just upstream from the boundary waters in Northern Minnesota. Sad, sad day. Vote was 50 to 49, which means 50 Republican senators would rather lick the boots of a Chilean billionaire than stand with hunters and anglers across this country. Where it is, the White House also got involved that was pressuring folks. This is absolutely ridiculous. This has real consequences. My own senators from Montana, Senator Daines, Senator Shihi, shame on you. Senator Shihi in particular, you're from Minnesota. You've been to the boundary waters. This is bullshit. Do you want to do that to your home state? What are you going to do for your adopted state?",
-    "is_political": null,
+    "is_political": true,
     "confidence": "low",
     "reason": "parse error"
   },
@@ -5935,7 +5935,7 @@
     "index": 184,
     "filename": "0184_Your_channel_HKtTA5eIq5o.mp3",
     "transcript": "Scammy Davis, Jr. was in Vegas to take credit for no tax on tips and to drop this relatable little gem. The Great Big Beautiful Bill also slashed taxes on millions of American small businesses, including restaurants, strikeliners, corner stores. What is a corner store? I've never heard that term. I know what a corner store is, but I've never heard it describe a corner store. Who the hell wrote that, please? Yeah, who the hell wrote that? I mean, of all the crazy things that have come out of his mouth. That's, this is the one he scolds them before. And by the way, the man grew up in Queens. He's never heard of a corner store. Where did he think his servants were going to get his twinkies every day? If you're watching, Mr. President, corner store is a place where people who aren't billionaires go to buy the tequila that helps us forget you're running the country.",
-    "is_political": null,
+    "is_political": true,
     "confidence": "low",
     "reason": "parse error"
   },
