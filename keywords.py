@@ -40,7 +40,8 @@ def process_json(filepath, keyword):
     changed = 0
     for entry in data:
         transcript = entry.get("transcript", "")
-        if keyword.lower() in transcript.lower():
+        channel = entry.get("channel", "")
+        if keyword.lower() in transcript.lower() or keyword.lower() in channel.lower():
             if not entry.get("is_political"):
                 entry["is_political"] = True
                 changed += 1

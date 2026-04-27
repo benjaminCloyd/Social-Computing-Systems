@@ -17,3 +17,9 @@ liberal
   treatment/18mtreatment.json: 2/505 entries updated
 liberals
 conservatives
+rogan
+  treatment/18ftreatment.json: 1/538 entries updated
+  treatment/18mtreatment.json: 6/505 entries updated
+  treatment/35ftreatment.json: 1/511 entries updated
+  treatment/35mtreatment.json: 1/660 entries updated
+  control/35mcontrol.json: 1/616 entries updated
